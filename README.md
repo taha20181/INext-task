@@ -17,6 +17,6 @@
 
 
 ### Run Flask app
-export FLASK_APP=app
-export FLASK_ENV=development
-flask run
+1. export FLASK_APP=app
+2. export FLASK_ENV=development
+3. flask run
